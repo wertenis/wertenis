@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wertenis
+Hi, I’m @wertenis 
 
 My site - https://wertenis.github.io
 
