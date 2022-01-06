@@ -4,7 +4,8 @@ My site - https://wertenis.github.io
 
 ![Image alt](https://github.com/wertenis/wertenis/blob/main/img/pyaterochka.jpg)
 
-
-```html
+<sub>
+  ```html
 Тут могла быть ваша реклама
 ```
+</sub>
